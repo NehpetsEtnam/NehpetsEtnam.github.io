@@ -1,0 +1,216 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.91394,
+            10.3434114
+          ],
+          [
+            123.914093,
+            10.3433952
+          ],
+          [
+            123.914345,
+            10.3433571
+          ],
+          [
+            123.91449,
+            10.3433304
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1015,
+        "line_color_key": "#E23737"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.91449,
+            10.3433304
+          ],
+          [
+            123.914345,
+            10.3433571
+          ],
+          [
+            123.914093,
+            10.3433952
+          ],
+          [
+            123.91394,
+            10.3434114
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1018,
+        "line_color_key": "#0854C6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.911873,
+            10.3408689
+          ],
+          [
+            123.911888,
+            10.3409586
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1075,
+        "line_color_key": "#053681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.911888,
+            10.3409586
+          ],
+          [
+            123.911873,
+            10.3408689
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1076,
+        "line_color_key": "#A4C1EC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.912704,
+            10.3457422
+          ],
+          [
+            123.912521,
+            10.3452291
+          ],
+          [
+            123.912369,
+            10.3443384
+          ],
+          [
+            123.912354,
+            10.3442602
+          ],
+          [
+            123.912308,
+            10.3440142
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1089,
+        "line_color_key": "#A4C1EC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.912704,
+            10.3457422
+          ],
+          [
+            123.912582,
+            10.3452129
+          ],
+          [
+            123.911964,
+            10.3415766
+          ],
+          [
+            123.911919,
+            10.3411322
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1090,
+        "line_color_key": "#261F1C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.911919,
+            10.3411322
+          ],
+          [
+            123.911964,
+            10.3415766
+          ],
+          [
+            123.912582,
+            10.3452129
+          ],
+          [
+            123.912704,
+            10.3457422
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1091,
+        "line_color_key": "#E23737"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.911919,
+            10.3411322
+          ],
+          [
+            123.912033,
+            10.3415699
+          ],
+          [
+            123.912094,
+            10.3419418
+          ],
+          [
+            123.912247,
+            10.3428049
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1092,
+        "line_color_key": "#E23737"
+      }
+  ]
+}
