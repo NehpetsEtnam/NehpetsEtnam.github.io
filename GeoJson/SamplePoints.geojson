@@ -1,0 +1,191 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"pin_id_key": 616,
+			"pin_image_key": "WifiZone",
+			"pin_rotation_key": 0,
+			"pin_offset_key": [0,0],
+			"pin_type_key": "WifiSpot",
+			"indicator_key": 9999999,
+			"text_key": "Test",
+			"text_offset_key": [0,0],
+			"text_color_key": "#000000"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.90362115455957, 10.317143647792122]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"pin_id_key": 617,
+			"pin_image_key": "WifiZone",
+			"pin_rotation_key": 0,
+			"pin_offset_key": [0,0],
+			"pin_type_key": "WifiSpot",
+			"indicator_key": 9999999,
+			"text_key": "Test",
+			"text_offset_key": [0,0],
+			"text_color_key": "#000000"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.90362400151389, 10.317309055291304]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"pin_id_key": 618,
+			"pin_image_key": "WifiZone",
+			"pin_rotation_key": 0,
+			"pin_offset_key": [0,0],
+			"pin_type_key": "WifiSpot",
+			"indicator_key": 9999999,
+			"text_key": "Test",
+			"text_offset_key": [0,0],
+			"text_color_key": "#000000"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.90360062616128, 10.318902318147906]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"pin_id_key": 619,
+			"pin_image_key": "WifiZone",
+			"pin_rotation_key": 0,
+			"pin_offset_key": [0,0],
+			"pin_type_key": "WifiSpot",
+			"indicator_key": 9999999,
+			"text_key": "Test",
+			"text_offset_key": [0,0],
+			"text_color_key": "#000000"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.90280081818167, 10.319095342620997]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"pin_id_key": 620,
+			"pin_image_key": "WifiZone",
+			"pin_rotation_key": 0,
+			"pin_offset_key": [0,0],
+			"pin_type_key": "WifiSpot",
+			"indicator_key": 9999999,
+			"text_key": "Test",
+			"text_offset_key": [0,0],
+			"text_color_key": "#000000"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.9044926796559, 10.320176742856674]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"pin_id_key": 621,
+			"pin_image_key": "WifiZone",
+			"pin_rotation_key": 0,
+			"pin_offset_key": [0,0],
+			"pin_type_key": "WifiSpot",
+			"indicator_key": 9999999,
+			"text_key": "Test",
+			"text_offset_key": [0,0],
+			"text_color_key": "#000000"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.90446444047745, 10.320011558539221]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"pin_id_key": 622,
+			"pin_image_key": "WifiZone",
+			"pin_rotation_key": 0,
+			"pin_offset_key": [0,0],
+			"pin_type_key": "WifiSpot",
+			"indicator_key": 9999999,
+			"text_key": "Test",
+			"text_offset_key": [0,0],
+			"text_color_key": "#000000"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.90507822386218, 10.320060897679596]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"pin_id_key": 623,
+			"pin_image_key": "WifiZone",
+			"pin_rotation_key": 0,
+			"pin_offset_key": [0,0],
+			"pin_type_key": "WifiSpot",
+			"indicator_key": 9999999,
+			"text_key": "Test",
+			"text_offset_key": [0,0],
+			"text_color_key": "#000000"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.90506103940908, 10.320166198687943]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"pin_id_key": 624,
+			"pin_image_key": "WifiZone",
+			"pin_rotation_key": 0,
+			"pin_offset_key": [0,0],
+			"pin_type_key": "WifiSpot",
+			"indicator_key": 9999999,
+			"text_key": "Test",
+			"text_offset_key": [0,0],
+			"text_color_key": "#000000"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.90820258567658, 10.318631662357376]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"pin_id_key": 625,
+			"pin_image_key": "WifiZone",
+			"pin_rotation_key": 0,
+			"pin_offset_key": [0,0],
+			"pin_type_key": "WifiSpot",
+			"indicator_key": 9999999,
+			"text_key": "Test",
+			"text_offset_key": [0,0],
+			"text_color_key": "#000000"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.90814606142385, 10.318757645635344]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"pin_id_key": 626,
+			"pin_image_key": "WifiZone",
+			"pin_rotation_key": 0,
+			"pin_offset_key": [0,0],
+			"pin_type_key": "WifiSpot",
+			"indicator_key": 9999999,
+			"text_key": "Test",
+			"text_offset_key": [0,0],
+			"text_color_key": "#000000"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.90931986262433, 10.313657801180838]
+		}
+	}]
+}
