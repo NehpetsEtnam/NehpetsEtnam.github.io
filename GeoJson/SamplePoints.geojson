@@ -9,9 +9,9 @@
 			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
-			"text_key": "Test",
-			"text_offset_key": [0,0],
-			"text_color_key": "#000000"
+			"text_key": "Free Wifi",
+			"text_offset_key": [0,2.5],
+			"text_color_key": "#0854C6"
 		},
 		"geometry": {
 			"type": "Point",
@@ -26,9 +26,9 @@
 			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
-			"text_key": "Test",
-			"text_offset_key": [0,0],
-			"text_color_key": "#000000"
+			"text_key": "Free Wifi",
+			"text_offset_key": [0,2.5],
+			"text_color_key": "#0854C6"
 		},
 		"geometry": {
 			"type": "Point",
@@ -43,9 +43,9 @@
 			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
-			"text_key": "Test",
-			"text_offset_key": [0,0],
-			"text_color_key": "#000000"
+			"text_key": "Free Wifi",
+			"text_offset_key": [0,2.5],
+			"text_color_key": "#0854C6"
 		},
 		"geometry": {
 			"type": "Point",
@@ -60,9 +60,9 @@
 			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
-			"text_key": "Test",
-			"text_offset_key": [0,0],
-			"text_color_key": "#000000"
+			"text_key": "Free Wifi",
+			"text_offset_key": [0,2.5],
+			"text_color_key": "#0854C6"
 		},
 		"geometry": {
 			"type": "Point",
@@ -77,9 +77,9 @@
 			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
-			"text_key": "Test",
-			"text_offset_key": [0,0],
-			"text_color_key": "#000000"
+			"text_key": "Free Wifi",
+			"text_offset_key": [0,2.5],
+			"text_color_key": "#0854C6"
 		},
 		"geometry": {
 			"type": "Point",
@@ -94,9 +94,9 @@
 			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
-			"text_key": "Test",
-			"text_offset_key": [0,0],
-			"text_color_key": "#000000"
+			"text_key": "Free Wifi",
+			"text_offset_key": [0,2.5],
+			"text_color_key": "#0854C6"
 		},
 		"geometry": {
 			"type": "Point",
@@ -111,9 +111,9 @@
 			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
-			"text_key": "Test",
-			"text_offset_key": [0,0],
-			"text_color_key": "#000000"
+			"text_key": "Free Wifi",
+			"text_offset_key": [0,2.5],
+			"text_color_key": "#0854C6"
 		},
 		"geometry": {
 			"type": "Point",
@@ -128,9 +128,9 @@
 			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
-			"text_key": "Test",
-			"text_offset_key": [0,0],
-			"text_color_key": "#000000"
+			"text_key": "Free Wifi",
+			"text_offset_key": [0,2.5],
+			"text_color_key": "#0854C6"
 		},
 		"geometry": {
 			"type": "Point",
@@ -145,9 +145,9 @@
 			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
-			"text_key": "Test",
-			"text_offset_key": [0,0],
-			"text_color_key": "#000000"
+			"text_key": "Free Wifi",
+			"text_offset_key": [0,2.5],
+			"text_color_key": "#0854C6"
 		},
 		"geometry": {
 			"type": "Point",
@@ -162,9 +162,9 @@
 			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
-			"text_key": "Test",
-			"text_offset_key": [0,0],
-			"text_color_key": "#000000"
+			"text_key": "Free Wifi",
+			"text_offset_key": [0,2.5],
+			"text_color_key": "#0854C6"
 		},
 		"geometry": {
 			"type": "Point",
@@ -179,9 +179,9 @@
 			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
-			"text_key": "Test",
-			"text_offset_key": [0,0],
-			"text_color_key": "#000000"
+			"text_key": "Free Wifi",
+			"text_offset_key": [0,2.5],
+			"text_color_key": "#0854C6"
 		},
 		"geometry": {
 			"type": "Point",
