@@ -10,7 +10,7 @@
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0,2],
+			"text_offset_key": [0,1],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -27,7 +27,7 @@
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0,2],
+			"text_offset_key": [0,1],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -44,7 +44,7 @@
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0,2],
+			"text_offset_key": [0,1],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -61,7 +61,7 @@
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0,2],
+			"text_offset_key": [0,1],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -78,7 +78,7 @@
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0,2],
+			"text_offset_key": [0,1],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -95,7 +95,7 @@
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0,2],
+			"text_offset_key": [0,1],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -112,7 +112,7 @@
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0,2],
+			"text_offset_key": [0,1],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -129,7 +129,7 @@
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0,2],
+			"text_offset_key": [0,1],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -146,7 +146,7 @@
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0,2],
+			"text_offset_key": [0,1],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -163,7 +163,7 @@
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0,2],
+			"text_offset_key": [0,1],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -180,7 +180,7 @@
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0,2],
+			"text_offset_key": [0,1],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
