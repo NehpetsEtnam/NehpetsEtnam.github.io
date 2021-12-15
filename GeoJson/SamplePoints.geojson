@@ -6,11 +6,11 @@
 			"pin_id_key": 616,
 			"pin_image_key": "WifiZone",
 			"pin_rotation_key": 0,
-			"pin_offset_key": [0f,0f],
+			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0f,10f],
+			"text_offset_key": [0,4],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -23,11 +23,11 @@
 			"pin_id_key": 617,
 			"pin_image_key": "WifiZone",
 			"pin_rotation_key": 0,
-			"pin_offset_key": [0f,0f],
+			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0f,10f],
+			"text_offset_key": [0,4],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -40,11 +40,11 @@
 			"pin_id_key": 618,
 			"pin_image_key": "WifiZone",
 			"pin_rotation_key": 0,
-			"pin_offset_key": [0f,0f],
+			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0f,10f],
+			"text_offset_key": [0,4],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -57,11 +57,11 @@
 			"pin_id_key": 619,
 			"pin_image_key": "WifiZone",
 			"pin_rotation_key": 0,
-			"pin_offset_key": [0f,0f],
+			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0f,10f],
+			"text_offset_key": [0,4],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -74,11 +74,11 @@
 			"pin_id_key": 620,
 			"pin_image_key": "WifiZone",
 			"pin_rotation_key": 0,
-			"pin_offset_key": [0f,0f],
+			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0f,10f],
+			"text_offset_key": [0,4],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -91,11 +91,11 @@
 			"pin_id_key": 621,
 			"pin_image_key": "WifiZone",
 			"pin_rotation_key": 0,
-			"pin_offset_key": [0f,0f],
+			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0f,10f],
+			"text_offset_key": [0,4],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -108,11 +108,11 @@
 			"pin_id_key": 622,
 			"pin_image_key": "WifiZone",
 			"pin_rotation_key": 0,
-			"pin_offset_key": [0f,0f],
+			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0f,10f],
+			"text_offset_key": [0,4],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -125,11 +125,11 @@
 			"pin_id_key": 623,
 			"pin_image_key": "WifiZone",
 			"pin_rotation_key": 0,
-			"pin_offset_key": [0f,0f],
+			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0f,10f],
+			"text_offset_key": [0,4],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -142,11 +142,11 @@
 			"pin_id_key": 624,
 			"pin_image_key": "WifiZone",
 			"pin_rotation_key": 0,
-			"pin_offset_key": [0f,0f],
+			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0f,10f],
+			"text_offset_key": [0,4],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -159,11 +159,11 @@
 			"pin_id_key": 625,
 			"pin_image_key": "WifiZone",
 			"pin_rotation_key": 0,
-			"pin_offset_key": [0f,0f],
+			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0f,10f],
+			"text_offset_key": [0,4],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
@@ -176,11 +176,11 @@
 			"pin_id_key": 626,
 			"pin_image_key": "WifiZone",
 			"pin_rotation_key": 0,
-			"pin_offset_key": [0f,0f],
+			"pin_offset_key": [0,0],
 			"pin_type_key": "WifiSpot",
 			"indicator_key": 9999999,
 			"text_key": "Free Wifi",
-			"text_offset_key": [0f,10f],
+			"text_offset_key": [0,4],
 			"text_color_key": "#0854C6"
 		},
 		"geometry": {
